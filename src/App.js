@@ -4,10 +4,10 @@ import Weather from "./Weather.js";
 function App() {
   return (
     <div className="App">
-      <h1>Weather App</h1>
+      <h1 className="title text-center">Weather App</h1>
 
       <Weather />
-      <div className="footer">
+      <div className="footer text-center">
         This app was Coded by{" "}
         <a
           href="https://github.com/ericadlamini"
