@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1 className="title text-center">Weather App</h1>
 
-      <Weather />
+      <Weather defaultCity="Cape Town" />
       <div className="footer text-center">
         This app was Coded by{" "}
         <a
