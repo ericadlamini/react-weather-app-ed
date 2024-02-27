@@ -1,6 +1,7 @@
 .Weather {
-  border: 1px solid #d9dce0;
-  padding: 15px;
+  border: 1px solid #e9b2bc;
+  border-radius: 5px;
+  padding: 22px;
   margin: 30px auto;
   max-width: 600px;
   border-radius: 4pxç;
@@ -9,7 +10,7 @@
 
 .Weather h1 {
   color: hsl(207, 4%, 50%);
-  font-weight: 100;
+  font-weight: 300;
   margin-bottom: 23px;
   margin-top: 10px;
 }
@@ -51,4 +52,14 @@
 .footer {
   text-align: center;
   font-size: 12px;
+}
+
+.weather-details {
+  color: #e9b2bc;
+  font-weight: 300;
+}
+
+#s-button {
+  background-color: #e9b2bc;
+  border-color: #e9b2bc;
 }

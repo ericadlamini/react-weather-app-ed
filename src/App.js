@@ -4,7 +4,7 @@ import Weather from "./Weather.js";
 function App() {
   return (
     <div className="App">
-      <h1 className="title text-center">Weather App</h1>
+      <h1 className="title text-center weatherTitle">Weather App</h1>
 
       <Weather defaultCity="Cape Town" />
       <div className="footer text-center">

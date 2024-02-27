@@ -32,3 +32,9 @@
     transform: rotate(360deg);
   }
 }
+
+.weatherTitle {
+  margin-top: 40px;
+  font-size: 30px;
+  color: hsl(207, 4%, 50%);
+}
