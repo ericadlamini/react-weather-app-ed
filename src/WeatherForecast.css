@@ -2,6 +2,7 @@
   font-size: 12px;
   text-align: center;
   margin: 10px;
+  border-top: 1px solid #e9b2bc;
 }
 
 .temperature-max {
@@ -11,4 +12,8 @@
 .forecast-icon {
   margin-top: 6px;
   margin-bottom: 6px;
+}
+
+.forecast-day {
+  margin-top: 20px;
 }
